@@ -47,7 +47,7 @@ fig1.update_layout(barmode='group')
 st.plotly_chart(fig1)
 
 '''
-## Well Licences by Substance per Week (2021)
+## Well Licences by Substance per Week (2021 YTD)
 
 '''
 week_subs = ST1_2021
@@ -70,7 +70,7 @@ fig.update_layout(barmode='group')
 st.plotly_chart(fig)
 
 '''
-## Well Licences Locations by Operator
+## Well Licences Locations by Operator (2021 YTD)
 
 '''
 #Create Dropdown by Licensee
